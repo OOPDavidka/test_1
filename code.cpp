@@ -3,6 +3,7 @@
 #include <iomanip>
 using namespace std;
 //ГЛОБАЛЬНЫЕ ИЗМЕНЕНИЯ)
+//добавил ещё один комментарий
 //новый комментарий
 //создание и заполнение СЛАУ
 float** create_matrix(unsigned n) {
