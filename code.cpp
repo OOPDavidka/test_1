@@ -2,6 +2,7 @@
 #include <math.h>
 #include <iomanip>
 using namespace std;
+//ГЛОБАЛЬНЫЕ ИЗМЕНЕНИЯ)
 //новый комментарий
 //создание и заполнение СЛАУ
 float** create_matrix(unsigned n) {
